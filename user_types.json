@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Name": "Petras",
+    "Age": 40,
+    "City": "Kaunas",
+    "Role": "Administratorius"
+  },
+  {
+    "Name": "Tadas",
+    "Age": 22,
+    "City": "Klaipėda",
+    "Role": "Naudotojas"
+  }
+]
