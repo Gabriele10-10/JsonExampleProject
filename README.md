@@ -19,4 +19,4 @@ Projektas sukurtas kaip .NET konsolės programa, naudojant Newtonsoft.Json bibli
 
 ## Nuoroda į GitHub
 
-[https://github.com/TAVO_VARDAS/JsonExampleProject](https://github.com/TAVO_VARDAS/JsonExampleProject)
+https://github.com/Gabriele10-10/JsonExampleProject/tree/main
